@@ -20,7 +20,12 @@ Durante as aulas de Pensamento computacional acessamos vários projetos em plata
  segue o linK: https://scratch.mit.edu/projects/963809666
 
 
- - Temos projetos realizados dentro da plataforma p5, projetos em java:
+  **SIMULADOR DE EXPLORAÇÃO EM MARTE**
+
+  Criamos também um robô que percorre superfícies de planetas alienígenas, e faz varreduras para verificação de vida fora do nosso planeta.
+  Esse robô é abastecido por fonte de energia solar, devido a isso o robô deve evitar contato com as núvens da atmosfera alienígena.
+
+  segue o link: https://scratch.mit.edu/projects/1033828505
 
 
 
